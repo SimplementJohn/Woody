@@ -1,4 +1,5 @@
 # Woody
+<img src="woody.png" alt="Logo" width="80" align="left" />
 # 🎵 Discord Music Bot
 
 A simple Discord bot built with **discord.py** and **yt-dlp** that can join voice channels, play music from YouTube, manage a queue, and disconnect automatically after inactivity.  
